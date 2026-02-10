@@ -1,0 +1,271 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "https://i.pravatar.cc/150?img=1"
+      },
+      "image": "https://picsum.photos/600/600?random=1",
+      "caption": "Beautiful sunset 🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot 😍"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "alice_wonder",
+        "profile_pic": "https://i.pravatar.cc/150?img=2"
+      },
+      "image": "https://picsum.photos/600/600?random=2",
+      "caption": "Morning vibes ☀️✨",
+      "likes": 98,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "So peaceful 😌"
+        }
+      ],
+      "timestamp": "2025-02-11T09:15:00Z"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "mark_92",
+        "profile_pic": "https://i.pravatar.cc/150?img=3"
+      },
+      "image": "https://picsum.photos/600/600?random=3",
+      "caption": "Travel diaries ✈️🌍",
+      "likes": 150,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "This looks awesome 🔥"
+        },
+        {
+          "user": "john_doe",
+          "comment": "Adding this to my bucket list!"
+        }
+      ],
+      "timestamp": "2025-02-10T18:45:00Z"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "sara_life",
+        "profile_pic": "https://i.pravatar.cc/150?img=4"
+      },
+      "image": "https://picsum.photos/600/600?random=4",
+      "caption": "Coffee time ☕❤️",
+      "likes": 76,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Perfect shot ☕"
+        }
+      ],
+      "timestamp": "2025-02-10T08:30:00Z"
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "travel_with_me",
+        "profile_pic": "https://i.pravatar.cc/150?img=5"
+      },
+      "image": "https://picsum.photos/600/600?random=5",
+      "caption": "Lost in nature 🌲💚",
+      "likes": 210,
+      "comments": [
+        {
+          "user": "mark_92",
+          "comment": "Nature therapy 🌿"
+        },
+        {
+          "user": "alice_wonder",
+          "comment": "So calming 😍"
+        }
+      ],
+      "timestamp": "2025-02-09T16:20:00Z"
+    },
+    {
+      "id": 6,
+      "user": {
+        "id": 106,
+        "username": "foodie_world",
+        "profile_pic": "https://i.pravatar.cc/150?img=6"
+      },
+      "image": "https://picsum.photos/600/600?random=6",
+      "caption": "Food is love 🍔❤️",
+      "likes": 132,
+      "comments": [
+        {
+          "user": "sara_life",
+          "comment": "Looks delicious 🤤"
+        }
+      ],
+      "timestamp": "2025-02-09T13:00:00Z"
+    },
+    {
+      "id": 7,
+      "user": {
+        "id": 107,
+        "username": "fitness_freak",
+        "profile_pic": "https://i.pravatar.cc/150?img=7"
+      },
+      "image": "https://picsum.photos/600/600?random=7",
+      "caption": "Stay strong 💪🔥",
+      "likes": 165,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Motivation 💯"
+        }
+      ],
+      "timestamp": "2025-02-08T06:45:00Z"
+    },
+    {
+      "id": 8,
+      "user": {
+        "id": 108,
+        "username": "city_explorer",
+        "profile_pic": "https://i.pravatar.cc/150?img=8"
+      },
+      "image": "https://picsum.photos/600/600?random=8",
+      "caption": "City lights 🌃✨",
+      "likes": 189,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Love this vibe 😍"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Which city is this?"
+        }
+      ],
+      "timestamp": "2025-02-07T20:10:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "john_doe1",
+    "profile_pic": "https://i.pravatar.cc/150?img=21"
+  },
+  "suggestions": [
+    {
+      "id": 201,
+      "username": "sarah_lee",
+      "profile_pic": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": 202,
+      "username": "travel_with_anna",
+      "profile_pic": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": 203,
+      "username": "foodie_world",
+      "profile_pic": "https://i.pravatar.cc/150?img=14"
+    },
+    {
+      "id": 204,
+      "username": "fitness_freak",
+      "profile_pic": "https://i.pravatar.cc/150?img=15"
+    }
+  ],
+  "story": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "https://i.pravatar.cc/150?img=1"
+      },
+      "image": "https://picsum.photos/400/700?random=101"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "alice_wonder",
+        "profile_pic": "https://i.pravatar.cc/150?img=2"
+      },
+      "image": "https://picsum.photos/400/700?random=102"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "mark_92",
+        "profile_pic": "https://i.pravatar.cc/150?img=3"
+      },
+      "image": "https://picsum.photos/400/700?random=103"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "sara_life",
+        "profile_pic": "https://i.pravatar.cc/150?img=4"
+      },
+      "image": "https://picsum.photos/400/700?random=104"
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "travel_with_me",
+        "profile_pic": "https://i.pravatar.cc/150?img=5"
+      },
+      "image": "https://picsum.photos/400/700?random=105"
+    },
+    {
+      "id": 6,
+      "user": {
+        "id": 106,
+        "username": "foodie_world",
+        "profile_pic": "https://i.pravatar.cc/150?img=6"
+      },
+      "image": "https://picsum.photos/400/700?random=106"
+    },
+    {
+      "id": 7,
+      "user": {
+        "id": 107,
+        "username": "fitness_freak",
+        "profile_pic": "https://i.pravatar.cc/150?img=7"
+      },
+      "image": "https://picsum.photos/400/700?random=107"
+    },
+    {
+      "id": 8,
+      "user": {
+        "id": 108,
+        "username": "city_explorer",
+        "profile_pic": "https://i.pravatar.cc/150?img=8"
+      },
+      "image": "https://picsum.photos/400/700?random=108"
+    }
+  ],
+  "followers": [
+    {
+      "id": 204,
+      "username": "fitness_freak"
+    }
+  ]
+}
